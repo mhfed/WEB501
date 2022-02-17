@@ -1,9 +1,10 @@
+import Header from "../components/header";
+
 const HomePage = {
     render() {
         return /* html */`
-        
-        <a href="/">Home</a>
-        <a href="/about">About</a>`;
+        ${Header.render()}
+        `;
     },
 };
 export default HomePage;

@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "img": "https://picsum.photos/200/200",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "img": "https://picsum.photos/200/200",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "img": "https://picsum.photos/200/200",
+      "price": 300
+    }
+  ],
+  "users": [
+    {
+      "email": "nmhieu04091999@gmail.com",
+      "password": "$2a$10$J3Hs9802mRYlZrgeI0mNf.Q9y7U3gzkvYr.vvMhCC8YzvaqANSwG2",
+      "id": 1
+    }
+  ]
+}
